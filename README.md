@@ -1,6 +1,6 @@
 #Sherpa
 #### Honorable Mention for Design and Top 6 at Angel Hacks Silicon Valley
-######Sherpa focuses on enriching your travel experience by connecting you with locals in a city. The locals would offer you guided tours around a city and will help you create a personal connection to the city's culture. With Sherpa, regardless of where you are, you local friend is just a few clicks away.
+######Sherpa focuses on enriching your travel experience by connecting you with locals in a city. The locals would offer you guided tours around a city and will help you create a personal connection to the city's culture. With Sherpa, regardless of where you are, your local friend is just a few clicks away.
 
 <img src="https://cloud.githubusercontent.com/assets/8840000/10403485/e820f508-6e99-11e5-901e-c053c764675c.png" width="250" height="443.75" /> <img src="https://cloud.githubusercontent.com/assets/8840000/10403486/e8213b3a-6e99-11e5-93fa-861b0dcf42b4.png" width="250" height="443.75" /> <img src="https://cloud.githubusercontent.com/assets/8840000/10403487/e82174e2-6e99-11e5-9764-582e5dc569a4.png" width="250" height="443.75" /> <img src="https://cloud.githubusercontent.com/assets/8840000/10403484/e81eb090-6e99-11e5-853a-c686d07f7c36.png" width="250" height="443.75" /> <img src="https://cloud.githubusercontent.com/assets/8840000/10403489/e8239f6a-6e99-11e5-8b61-8149d1c48f0a.png" width="250" height="443.75" /> <img src="https://cloud.githubusercontent.com/assets/8840000/10403488/e8224494-6e99-11e5-9f5f-634acfe275a8.png" width="250" height="443.75" />
 
